@@ -18,13 +18,4 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-include:
-  - board: ferris_rev02
-  - board: nrfmicro_13
-    shield: cradio_left
-  - board: nrfmicro_13
-    shield: cradio_right
-  - board: nrfmicro_11
-    shield: cradio_left
-  - board: nrfmicro_11
-    shield: cradio_right
+include: []
