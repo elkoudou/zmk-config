@@ -20,3 +20,7 @@
 ---
 include:
   - board: ferris_rev02
+  - board: nrfmicro_13
+    shield: cradio_left
+  - board: nrfmicro_13
+    shield: cradio_right
